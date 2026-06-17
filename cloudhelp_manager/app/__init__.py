@@ -1,3 +1,1 @@
-"""cloudhelp_manager.app package."""
-
-# Package initialization for the cloudhelp_manager application.
+"""App module for CloudHelp Manager"""

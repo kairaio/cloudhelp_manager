@@ -1,1 +1,1 @@
-"""Middlewares for CloudHelp Manager"""
+"""Middlewares module for CloudHelp Manager"""

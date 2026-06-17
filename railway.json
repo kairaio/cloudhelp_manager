@@ -9,7 +9,7 @@
         "preDeployCommand": [
             "pip install -r requirements.txt"
         ],
-        "startCommand": "python -m cloudhelp_manager.bot",
+        "startCommand": "python bot.py",
         "sleepApplication": false,
         "useLegacyStacker": false,
         "ipv6EgressEnabled": false,
